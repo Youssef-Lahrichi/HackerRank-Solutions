@@ -10,3 +10,4 @@ Here is a reference to all the HackerRank problems I have solved (that I remeber
 - Polynomial Regression: Office Prices
 - Laptop Battery Life
 - The Best Aptitude Test
+- Dota 2 Game Prediction
